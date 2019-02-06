@@ -1,5 +1,7 @@
 # Exercise Tracker REST API
 
+Test the Project: https://wide-discovery.glitch.me/
+
 #### A microservice project, part of Free Code Camp's curriculum
 
 ### User Stories
